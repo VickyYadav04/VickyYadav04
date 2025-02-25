@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning Sigma web development course and front-end development
 - 💞️ I’m looking to collaborate on innovative companies
 - 📫 How to reach me : Contact me through my social media 
-- Skills :
+- 😎 Skills :
 - Programming Languages : HTML
 - Web Development : Front-end development
 - Currently learning : PHP Language
-- Goals :
+- 🎯Goals :
 - Become a skilled front-end developer
 -Fun Fact : I enjoy reading books and exploring the world of tradings and investment
 
